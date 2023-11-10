@@ -1,3 +1,5 @@
+![logo](https://github.com/karthikb1019/karthikb/blob/main/Big-Data-Banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Karthik B</h1>
 <h3 align="center">A passionate Data Engineer From USA</h3>
 
